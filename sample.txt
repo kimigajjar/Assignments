@@ -1,0 +1,5 @@
+python is an interpreted language
+hello world !!!
+abc
+def
+ghi
