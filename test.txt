@@ -1,0 +1,6 @@
+kimi gajjar
+hii world
+hii
+hello world
+world.. 
+hello kimi['1\n23\n4\n53']['1\n23\n4\n53'][1, 2, 3, 4, 5, 'hii', 'how'][1, 2, 3, 4, 5, 'hii', 'how']

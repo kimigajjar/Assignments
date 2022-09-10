@@ -1,5 +1,1 @@
-python is an interpreted language
-hello world !!!
-abc
-def
-ghi
+['kimi gajjar\n', 'hii world\n', 'hii\n', 'hello world\n', 'world.. \n', "hello kimi['1\\n23\\n4\\n53']['1\\n23\\n4\\n53'][1, 2, 3, 4, 5, 'hii', 'how'][1, 2, 3, 4, 5, 'hii', 'how']"]
