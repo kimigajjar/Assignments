@@ -1,0 +1,12 @@
+insert into departments values(1,'Administration',1700);
+insert into departments values(2,'Marketing',1800);
+insert into departments values(3,'Purchasing',1700);
+insert into departments values(4,'Human Resources',2400);
+insert into departments values(5,'Shipping',1500);
+insert into departments values(6,'IT',1400);
+insert into departments values(7,'Public Relations',2700);
+insert into departments values(8,'Sales',2500);
+insert into departments values(9,'Executive',1700);
+insert into departments values(10,'Finance',1700);
+insert into departments values(11,'Accounting',1700);
+select * from departments;
